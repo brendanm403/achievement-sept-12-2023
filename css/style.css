@@ -1,0 +1,35 @@
+body {
+  background-image: url("../images/pexels-isaac-cedercrantz-5458369.jpg");
+  color: aliceblue;
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 1.7;
+}
+
+h1, h2 {
+  font-family: "Macondo", sans-serif;
+  text-align: center;
+  border-style: solid;
+  border-radius: 10%;
+}
+
+main {
+  max-width: 85ch;
+  margin: auto;
+}
+
+a {
+  border-style: solid;
+  color: aliceblue;
+  padding: 5px;
+}
+
+.footer-container {
+  margin: 4rem auto;
+  max-width: fit-content;
+}
+
+
+
+
+
